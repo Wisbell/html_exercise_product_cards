@@ -2,6 +2,12 @@ body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+body {
+	/*
+	column-count: 3;
+	*/
+}
+
 article {
 	border: 1px solid lightblue;
 }
@@ -64,5 +70,6 @@ h2 {
 }
 
 .price_header {
-	
+	font-weight: bold;
+	padding: 5px;
 }
